@@ -1,5 +1,25 @@
-Privacy Policy for Kjuge Bouldering Guide
--------------------------------------------------------------------------------
-This application was developed by Kullaps. inquiries: kullapps@hotmail.com
-  
-No personal data is being collected, stored or shared with any third parties.
+PRIVACY POLICY for Kjuge Bouldering Guide
+
+Effective Date: August 26, 2026
+
+Kullapps ("we," "us," or "our") operates the Kjuge Bouldering Guide mobile application (the "App"). We respect your privacy and are committed to protecting it through our compliance with this policy.
+
+1. DATA COLLECTION AND USAGE We do not collect, store, or transmit any Personal Identifiable Information (PII) to our own servers.
+
+• No Account Creation: You are not required to create an account to use the App.
+• No Personal Data: We do not collect names, email addresses, phone numbers, or contacts.
+
+2.  PERMISSIONS AND DEVICE DATA The App may request certain permissions to provide its features:
+
+• Location Data: The App uses your device's GPS to show your current position on the bouldering maps. This location data is processed locally on your device and is not stored or shared by us.
+• Local Storage: The App uses local storage on your device to store topo information and purchase states.
+
+3. THIRD-PARTY SERVICES While we do not collect your data, the App uses third-party services that may collect information used to identify you or provide their services. We encourage you to review their privacy policies:
+
+• Google Play Services & Google Play Billing: https://policies.google.com/privacy
+• Mapbox: https://www.mapbox.com/legal/privacy/
+• Google Maps API: https://www.google.com/help/terms_maps/
+
+5. CHANGES TO THIS PRIVACY POLICY We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the effective date.
+
+6. CONTACT US If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: kullapps@hotmail.com
